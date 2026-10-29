@@ -2,8 +2,6 @@
 
 ### Data Analyst | Python, SQL, Excel & Power BI
 
-**Drammen, Norway** · [Work with me on Upwork](https://www.upwork.com/freelancers/~01d8b1a2d28f637ca2)
-
 I help businesses clean, analyse and make better use of their data. I work with Python, SQL, Excel and Power BI on small analysis and reporting projects.
 
 ## How I can help
