@@ -1,5 +1,3 @@
-<img src="assets/farid.jpg" alt="Farid Safi" width="160" align="right" />
-
 # Farid Safi
 
 ### Data Analyst | Python, SQL, Excel & Power BI
